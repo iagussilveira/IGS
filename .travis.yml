@@ -1,0 +1,3 @@
+Java
+
+script: mvn test -f ./sum/pom.xml
